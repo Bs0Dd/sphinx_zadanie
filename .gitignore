@@ -1,0 +1,6 @@
+# Ignore Sphinx Build catalog
+build
+
+# Ignore Sphinx Make files
+Makefile
+make.bat
