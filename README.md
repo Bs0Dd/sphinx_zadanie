@@ -8,10 +8,10 @@ Ten dokument dotyczy **aspektów prawnych** w sprawie **transferu technologii**.
 
 Wyjaśnia:
 
-    * Czym jest transfer technologii
-    * Jakie są do tego wymogi regulacyjne
-    * Istniejące formy komercjalizacji
-    * Typy ochrony danych i związane z tym umowy
+* Czym jest transfer technologii
+* Jakie są do tego wymogi regulacyjne
+* Istniejące formy komercjalizacji
+* Typy ochrony danych i związane z tym umowy
 
 
-*Dokument zawiera Bibliografię.*
+*Dokument zawiera **Bibliografię**.*
