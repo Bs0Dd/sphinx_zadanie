@@ -27,7 +27,7 @@ Są następujące umowy:
 
     #. **Umowa o przeniesienie praw** — na podstawie umowy o przeniesienie patentu
     #. **Umowy licencyjne** — wyłączne, niewyłączne, pełne, ograniczone, sublicencje
-    #. **Wspólne przedsięwzięcie** - przez dwa (lub więcej) niezależne przedsiębiorstwa
+    #. **Wspólne przedsięwzięcie** —  przez dwa (lub więcej) niezależne przedsiębiorstwa
 
 
 Regulacje branżowe i odpowiedzialność prawna
@@ -35,9 +35,9 @@ Regulacje branżowe i odpowiedzialność prawna
 
 Regulacje różnią się w zależności od branży i rodzaju technologii, np:
 
-    #. **Sektor medyczny i farmaceutyczny** – wymaga certyfikacji produktów, badań klinicznych i spełnienia norm ISO oraz wymogów organów nadzorczych 
-    #. **Sektor chemiczny i przemysłowy** – wymaga oznakowania substancji chemicznych zgodnie z CLP/GHS, i przestrzegania bhp.
-    #. **Sektor IT i cyfrowy** – wymaga ochrony danych osobowych (RODO) oraz bezpieczeństwa oprogramowania i aplikacji branżowych. 
+    #. **Sektor medyczny i farmaceutyczny** — wymaga certyfikacji produktów, badań klinicznych i spełnienia norm ISO oraz wymogów organów nadzorczych.
+    #. **Sektor chemiczny i przemysłowy** — wymaga oznakowania substancji chemicznych zgodnie z CLP/GHS, i przestrzegania bhp.
+    #. **Sektor IT i cyfrowy** — wymaga ochrony danych osobowych (RODO) oraz bezpieczeństwa oprogramowania i aplikacji branżowych. 
 
 
 Odpowiedzialność cywilna i prawna 
